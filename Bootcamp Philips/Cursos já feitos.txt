@@ -1,0 +1,6 @@
+Cursos que já comclui até agora.
+
+1. Lógica de Programação Essencial;
+2. Pensamento Computacional;
+3. Introdução ao Git e ao GitHub;
+4. Criando seu Primeiro Repositório no GitHub Para Compartilhar seu Proceso (Cursando).
