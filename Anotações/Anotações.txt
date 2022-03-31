@@ -1,0 +1,8 @@
+Algumas anotações sobre as funcionalidades dos comandos:
+
+1. git clone - Ele clona seu repositótio do GitHub para sua máquina.
+2. cd +nome do repositório - Acessa o repositório na máquina.
+3. git status - Mostra um status referente ao seu repositório, com algumas informações.
+4. git add ./git add -A - Adiciona todos os arquivos que modificamos e ou criamos.
+5. git commit - Ele salva as alterações feitas (Com o comando -m "", você adiciona uma mensagem junto do commit).
+6. git push - Ele sobe seu repositório (códigos) da sua máquina, para o GitHub.
